@@ -1,0 +1,13 @@
+order_id,customer_id,order_date,product_id,category,unit_price,quantity,discount_pct,fulfillment_type,status
+ORD-1001,CUST-501,2026-01-15,PROD-101,Electronics,299.99,1,0.05,Direct Fulfillment,Completed
+ORD-1002,CUST-502,2026-01-16,PROD-202,Apparel,45.00,2,0.10,3PL Logistics,Completed
+ORD-1003,CUST-503,2026-01-16,PROD-303,Home & Kitchen,120.00,1,0.00,Direct Fulfillment,Completed
+ORD-1004,CUST-501,2026-02-01,PROD-102,Electronics,150.00,1,0.15,Direct Fulfillment,Completed
+ORD-1005,CUST-504,2026-02-03,PROD-203,Apparel,85.00,1,0.20,3PL Logistics,Returned
+ORD-1006,CUST-505,2026-02-05,PROD-404,Beauty & Care,35.00,3,0.00,Direct Fulfillment,Completed
+ORD-1007,CUST-506,2026-02-10,PROD-101,Electronics,299.99,1,0.00,Direct Fulfillment,Completed
+ORD-1008,CUST-502,2026-02-12,PROD-204,Apparel,60.00,1,0.05,3PL Logistics,Completed
+ORD-1009,CUST-507,2026-02-15,PROD-304,Home & Kitchen,210.00,1,0.10,3PL Logistics,Cancelled
+ORD-1010,CUST-508,2026-02-20,PROD-202,Apparel,45.00,2,0.15,3PL Logistics,Returned
+ORD-1011,CUST-509,2026-03-01,PROD-103,Electronics,499.99,1,0.05,Direct Fulfillment,Completed
+ORD-1012,CUST-510,2026-03-04,PROD-405,Beauty & Care,50.00,2,0.10,Direct Fulfillment,Completed
