@@ -1,22 +1,20 @@
-# Enterprise Product Analytics Project
+ENTERPRISE PRODUCT ANALYTICS & CUSTOMER INTELLIGENCE PLATFORM
 
-## Overview
-This project focuses on analyzing product performance and customer behavior to support business decisions.
+A beginner-friendly end-to-end Data Analyst portfolio project.
 
-## Tools Used
-- SQL
-- Power BI
-- Excel
-- CSV Dataset
+TOOLS
+MySQL, SQL, Python, Pandas, Matplotlib, Power BI, CSV
 
-## Key Objectives
-- Analyze product performance
-- Understand customer behavior
-- Identify important business trends
-- Create dashboards to communicate insights
+WORKFLOW
+1. Load CSV data into MySQL.
+2. Perform data-quality checks.
+3. Analyze KPIs with SQL.
+4. Perform EDA and RFM segmentation in Python/Pandas.
+5. Build the Power BI data model.
+6. Create a 4-page interactive dashboard.
+7. Present actionable business recommendations.
 
-## Files
-This folder contains the project dataset, SQL queries, and Power BI dashboard.
-
-## Conclusion
-The project demonstrates how data analytics can help businesses understand product performance and make data-driven decisions.
+RESUME BULLET
+Built an end-to-end Enterprise Product Analytics and Customer Intelligence Platform using SQL,
+Python/Pandas and Power BI to analyze 1,500+ transactions, track revenue/profit KPIs,
+evaluate product performance, and segment customers using RFM analysis.

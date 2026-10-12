@@ -1,0 +1,401 @@
+Customer_ID,Customer_Name,Customer_Segment,Region,First_Purchase_Date,Industry,Account_Status
+CUST0001,Customer 0001,Enterprise,West,2025-08-31,Technology,Active
+CUST0002,Customer 0002,Enterprise,West,2025-07-12,Finance,Active
+CUST0003,Customer 0003,Mid-Market,North,2024-04-24,Healthcare,Active
+CUST0004,Customer 0004,SMB,North,2024-08-01,Technology,Active
+CUST0005,Customer 0005,Enterprise,East,2025-09-29,Manufacturing,Inactive
+CUST0006,Customer 0006,SMB,East,2024-01-05,Technology,At Risk
+CUST0007,Customer 0007,Mid-Market,East,2024-08-13,Retail,Active
+CUST0008,Customer 0008,Mid-Market,East,2024-05-31,Technology,Inactive
+CUST0009,Customer 0009,Mid-Market,West,2024-08-28,Retail,Active
+CUST0010,Customer 0010,SMB,East,2025-08-20,Finance,Active
+CUST0011,Customer 0011,Enterprise,West,2025-06-15,Manufacturing,Active
+CUST0012,Customer 0012,Enterprise,East,2024-02-05,Manufacturing,Active
+CUST0013,Customer 0013,Enterprise,West,2024-03-31,Finance,Active
+CUST0014,Customer 0014,Mid-Market,North,2024-12-15,Manufacturing,At Risk
+CUST0015,Customer 0015,SMB,East,2025-11-29,Finance,At Risk
+CUST0016,Customer 0016,Mid-Market,East,2024-05-02,Manufacturing,Inactive
+CUST0017,Customer 0017,SMB,South,2024-06-10,Finance,Active
+CUST0018,Customer 0018,Mid-Market,West,2025-12-01,Retail,At Risk
+CUST0019,Customer 0019,SMB,North,2024-11-07,Finance,Active
+CUST0020,Customer 0020,Mid-Market,North,2025-06-20,Retail,Active
+CUST0021,Customer 0021,Enterprise,West,2024-12-10,Retail,At Risk
+CUST0022,Customer 0022,Mid-Market,South,2025-02-16,Technology,Active
+CUST0023,Customer 0023,Mid-Market,South,2024-05-21,Manufacturing,Inactive
+CUST0024,Customer 0024,SMB,North,2024-09-15,Technology,Active
+CUST0025,Customer 0025,Enterprise,North,2025-07-15,Technology,Active
+CUST0026,Customer 0026,SMB,West,2024-12-11,Technology,Active
+CUST0027,Customer 0027,Mid-Market,East,2025-05-14,Technology,Active
+CUST0028,Customer 0028,SMB,South,2025-11-13,Manufacturing,Active
+CUST0029,Customer 0029,SMB,North,2025-11-12,Healthcare,Active
+CUST0030,Customer 0030,Enterprise,North,2024-02-20,Healthcare,At Risk
+CUST0031,Customer 0031,Mid-Market,West,2024-09-10,Finance,Active
+CUST0032,Customer 0032,Mid-Market,South,2024-05-29,Finance,At Risk
+CUST0033,Customer 0033,Enterprise,North,2025-07-22,Technology,Active
+CUST0034,Customer 0034,SMB,East,2025-04-13,Technology,At Risk
+CUST0035,Customer 0035,Mid-Market,West,2024-07-02,Technology,Active
+CUST0036,Customer 0036,Enterprise,South,2024-06-15,Technology,Active
+CUST0037,Customer 0037,Mid-Market,East,2025-12-10,Healthcare,Active
+CUST0038,Customer 0038,SMB,West,2025-10-07,Finance,At Risk
+CUST0039,Customer 0039,Mid-Market,East,2024-01-30,Retail,At Risk
+CUST0040,Customer 0040,Mid-Market,West,2024-01-30,Manufacturing,Active
+CUST0041,Customer 0041,Mid-Market,East,2025-10-16,Retail,Active
+CUST0042,Customer 0042,Mid-Market,East,2024-01-21,Technology,Active
+CUST0043,Customer 0043,SMB,West,2025-02-24,Healthcare,Active
+CUST0044,Customer 0044,Mid-Market,East,2025-09-16,Healthcare,Active
+CUST0045,Customer 0045,Enterprise,West,2024-01-23,Technology,Active
+CUST0046,Customer 0046,Enterprise,West,2024-12-31,Healthcare,Active
+CUST0047,Customer 0047,Enterprise,West,2025-02-26,Healthcare,Active
+CUST0048,Customer 0048,Enterprise,North,2024-08-10,Retail,Active
+CUST0049,Customer 0049,SMB,North,2025-02-18,Manufacturing,Inactive
+CUST0050,Customer 0050,Mid-Market,West,2024-03-19,Manufacturing,Inactive
+CUST0051,Customer 0051,Mid-Market,North,2025-04-18,Finance,Active
+CUST0052,Customer 0052,Mid-Market,South,2024-11-07,Finance,Inactive
+CUST0053,Customer 0053,SMB,East,2024-07-16,Healthcare,Active
+CUST0054,Customer 0054,Mid-Market,East,2024-02-21,Manufacturing,Active
+CUST0055,Customer 0055,Enterprise,South,2025-07-03,Finance,At Risk
+CUST0056,Customer 0056,Enterprise,North,2025-08-02,Finance,Active
+CUST0057,Customer 0057,Mid-Market,South,2024-01-13,Finance,Active
+CUST0058,Customer 0058,Enterprise,East,2024-09-14,Retail,Active
+CUST0059,Customer 0059,Enterprise,North,2025-12-05,Manufacturing,Active
+CUST0060,Customer 0060,SMB,West,2024-12-16,Manufacturing,At Risk
+CUST0061,Customer 0061,Enterprise,South,2025-09-04,Manufacturing,Active
+CUST0062,Customer 0062,Mid-Market,East,2024-01-28,Healthcare,Inactive
+CUST0063,Customer 0063,SMB,West,2024-07-14,Retail,Active
+CUST0064,Customer 0064,SMB,West,2024-09-19,Retail,Active
+CUST0065,Customer 0065,SMB,North,2025-07-29,Healthcare,Active
+CUST0066,Customer 0066,Mid-Market,East,2025-04-07,Manufacturing,Active
+CUST0067,Customer 0067,SMB,East,2024-12-13,Technology,Active
+CUST0068,Customer 0068,SMB,South,2025-02-23,Finance,Active
+CUST0069,Customer 0069,SMB,East,2025-03-16,Retail,Active
+CUST0070,Customer 0070,Enterprise,South,2025-10-20,Technology,Inactive
+CUST0071,Customer 0071,SMB,North,2024-06-15,Finance,Active
+CUST0072,Customer 0072,SMB,East,2024-12-22,Healthcare,Active
+CUST0073,Customer 0073,Mid-Market,East,2024-01-26,Manufacturing,Active
+CUST0074,Customer 0074,Mid-Market,North,2024-01-17,Manufacturing,Active
+CUST0075,Customer 0075,SMB,West,2025-08-05,Retail,Active
+CUST0076,Customer 0076,SMB,West,2024-08-27,Technology,Active
+CUST0077,Customer 0077,Enterprise,East,2024-07-17,Finance,At Risk
+CUST0078,Customer 0078,Mid-Market,West,2024-03-24,Healthcare,Active
+CUST0079,Customer 0079,Enterprise,South,2024-02-28,Manufacturing,Active
+CUST0080,Customer 0080,SMB,South,2024-12-07,Retail,Active
+CUST0081,Customer 0081,Enterprise,North,2025-12-28,Healthcare,At Risk
+CUST0082,Customer 0082,Enterprise,North,2024-12-12,Manufacturing,At Risk
+CUST0083,Customer 0083,SMB,East,2025-02-15,Technology,Active
+CUST0084,Customer 0084,Enterprise,West,2024-01-17,Manufacturing,At Risk
+CUST0085,Customer 0085,Enterprise,West,2025-05-02,Retail,Active
+CUST0086,Customer 0086,Enterprise,North,2025-01-04,Retail,At Risk
+CUST0087,Customer 0087,Enterprise,North,2024-07-24,Technology,Active
+CUST0088,Customer 0088,Enterprise,East,2024-03-22,Retail,Active
+CUST0089,Customer 0089,Mid-Market,North,2024-01-10,Finance,At Risk
+CUST0090,Customer 0090,Enterprise,West,2025-07-05,Technology,Active
+CUST0091,Customer 0091,Mid-Market,South,2024-05-23,Manufacturing,Active
+CUST0092,Customer 0092,Enterprise,North,2025-03-16,Finance,Active
+CUST0093,Customer 0093,SMB,East,2025-06-12,Manufacturing,Active
+CUST0094,Customer 0094,Mid-Market,South,2024-11-07,Manufacturing,Active
+CUST0095,Customer 0095,Enterprise,East,2024-12-24,Technology,Active
+CUST0096,Customer 0096,Enterprise,North,2024-07-20,Retail,At Risk
+CUST0097,Customer 0097,Enterprise,South,2025-03-12,Manufacturing,At Risk
+CUST0098,Customer 0098,Enterprise,South,2025-03-05,Manufacturing,Active
+CUST0099,Customer 0099,SMB,South,2025-11-19,Finance,Active
+CUST0100,Customer 0100,Mid-Market,South,2025-01-11,Retail,Active
+CUST0101,Customer 0101,SMB,East,2025-01-08,Manufacturing,Active
+CUST0102,Customer 0102,Enterprise,North,2025-11-18,Manufacturing,At Risk
+CUST0103,Customer 0103,SMB,North,2024-02-15,Retail,Active
+CUST0104,Customer 0104,SMB,West,2025-12-15,Technology,Active
+CUST0105,Customer 0105,Mid-Market,South,2024-03-24,Finance,At Risk
+CUST0106,Customer 0106,Enterprise,West,2024-11-24,Manufacturing,Active
+CUST0107,Customer 0107,SMB,South,2024-04-15,Technology,Active
+CUST0108,Customer 0108,Enterprise,East,2025-09-16,Retail,Active
+CUST0109,Customer 0109,Mid-Market,West,2024-05-17,Retail,Active
+CUST0110,Customer 0110,Enterprise,East,2025-02-25,Finance,Active
+CUST0111,Customer 0111,Mid-Market,North,2024-10-07,Finance,Active
+CUST0112,Customer 0112,Enterprise,West,2025-12-15,Finance,Active
+CUST0113,Customer 0113,SMB,East,2025-09-09,Retail,Active
+CUST0114,Customer 0114,Mid-Market,East,2024-05-01,Technology,Active
+CUST0115,Customer 0115,Mid-Market,East,2024-06-17,Finance,Active
+CUST0116,Customer 0116,Enterprise,West,2024-05-06,Manufacturing,Active
+CUST0117,Customer 0117,SMB,North,2025-06-11,Technology,Active
+CUST0118,Customer 0118,SMB,South,2025-06-10,Healthcare,Active
+CUST0119,Customer 0119,Mid-Market,East,2025-09-25,Technology,Active
+CUST0120,Customer 0120,Enterprise,East,2025-08-14,Retail,Active
+CUST0121,Customer 0121,SMB,West,2025-07-15,Manufacturing,Active
+CUST0122,Customer 0122,Mid-Market,East,2024-09-17,Manufacturing,Active
+CUST0123,Customer 0123,SMB,East,2024-02-05,Finance,Active
+CUST0124,Customer 0124,SMB,South,2024-07-22,Technology,Active
+CUST0125,Customer 0125,Mid-Market,West,2024-07-28,Finance,Active
+CUST0126,Customer 0126,Mid-Market,East,2024-03-20,Retail,Active
+CUST0127,Customer 0127,Mid-Market,South,2024-05-14,Healthcare,At Risk
+CUST0128,Customer 0128,SMB,West,2024-03-23,Manufacturing,Active
+CUST0129,Customer 0129,Enterprise,East,2025-05-07,Finance,Active
+CUST0130,Customer 0130,Mid-Market,North,2024-05-27,Finance,Active
+CUST0131,Customer 0131,Enterprise,East,2024-03-06,Manufacturing,Active
+CUST0132,Customer 0132,SMB,North,2025-09-01,Finance,Active
+CUST0133,Customer 0133,Mid-Market,South,2024-12-26,Technology,Active
+CUST0134,Customer 0134,Enterprise,West,2024-11-08,Finance,Active
+CUST0135,Customer 0135,Mid-Market,West,2024-06-28,Healthcare,Active
+CUST0136,Customer 0136,Enterprise,South,2025-09-11,Manufacturing,At Risk
+CUST0137,Customer 0137,Enterprise,West,2025-06-08,Healthcare,Active
+CUST0138,Customer 0138,SMB,North,2024-04-24,Healthcare,Active
+CUST0139,Customer 0139,Enterprise,East,2024-02-19,Healthcare,Active
+CUST0140,Customer 0140,SMB,North,2024-01-30,Retail,Active
+CUST0141,Customer 0141,Mid-Market,East,2024-06-25,Retail,At Risk
+CUST0142,Customer 0142,Mid-Market,North,2024-08-14,Finance,Active
+CUST0143,Customer 0143,Enterprise,West,2025-06-03,Finance,Active
+CUST0144,Customer 0144,SMB,North,2024-08-07,Retail,Active
+CUST0145,Customer 0145,Enterprise,South,2024-12-31,Technology,Active
+CUST0146,Customer 0146,Enterprise,South,2025-10-03,Finance,At Risk
+CUST0147,Customer 0147,Mid-Market,North,2024-08-22,Finance,Active
+CUST0148,Customer 0148,Enterprise,East,2024-06-01,Healthcare,Active
+CUST0149,Customer 0149,SMB,East,2025-10-02,Finance,Active
+CUST0150,Customer 0150,Mid-Market,North,2024-08-15,Retail,Active
+CUST0151,Customer 0151,Mid-Market,East,2025-03-25,Finance,At Risk
+CUST0152,Customer 0152,Enterprise,North,2025-11-20,Healthcare,Active
+CUST0153,Customer 0153,Mid-Market,North,2025-04-11,Technology,Active
+CUST0154,Customer 0154,SMB,East,2024-11-03,Healthcare,Active
+CUST0155,Customer 0155,Mid-Market,North,2025-10-10,Manufacturing,At Risk
+CUST0156,Customer 0156,Mid-Market,North,2024-04-04,Healthcare,Active
+CUST0157,Customer 0157,Mid-Market,South,2024-03-09,Manufacturing,Active
+CUST0158,Customer 0158,SMB,West,2025-04-28,Technology,At Risk
+CUST0159,Customer 0159,Mid-Market,West,2025-01-05,Manufacturing,Active
+CUST0160,Customer 0160,Mid-Market,West,2024-11-08,Healthcare,Active
+CUST0161,Customer 0161,Mid-Market,West,2025-11-01,Finance,Inactive
+CUST0162,Customer 0162,Mid-Market,West,2024-03-02,Finance,Inactive
+CUST0163,Customer 0163,Enterprise,North,2024-12-14,Retail,Active
+CUST0164,Customer 0164,Mid-Market,South,2024-09-03,Healthcare,Active
+CUST0165,Customer 0165,SMB,South,2025-07-12,Retail,Active
+CUST0166,Customer 0166,SMB,South,2024-09-08,Finance,Active
+CUST0167,Customer 0167,Mid-Market,South,2025-08-13,Technology,Active
+CUST0168,Customer 0168,SMB,East,2025-07-28,Technology,Active
+CUST0169,Customer 0169,Mid-Market,East,2024-01-12,Manufacturing,Inactive
+CUST0170,Customer 0170,Mid-Market,East,2024-06-20,Healthcare,Active
+CUST0171,Customer 0171,SMB,North,2025-07-17,Manufacturing,At Risk
+CUST0172,Customer 0172,Mid-Market,South,2025-11-07,Technology,At Risk
+CUST0173,Customer 0173,Enterprise,South,2025-06-13,Manufacturing,Active
+CUST0174,Customer 0174,SMB,North,2025-05-10,Retail,Active
+CUST0175,Customer 0175,Mid-Market,West,2024-01-05,Retail,At Risk
+CUST0176,Customer 0176,SMB,South,2024-12-13,Manufacturing,At Risk
+CUST0177,Customer 0177,Enterprise,North,2025-05-12,Technology,Active
+CUST0178,Customer 0178,Enterprise,North,2024-08-06,Technology,Active
+CUST0179,Customer 0179,SMB,West,2024-08-05,Retail,Active
+CUST0180,Customer 0180,Mid-Market,East,2024-12-04,Technology,At Risk
+CUST0181,Customer 0181,Enterprise,West,2025-02-22,Manufacturing,Active
+CUST0182,Customer 0182,Mid-Market,South,2024-02-05,Manufacturing,Inactive
+CUST0183,Customer 0183,Mid-Market,East,2024-01-23,Technology,Inactive
+CUST0184,Customer 0184,SMB,South,2024-05-21,Finance,Active
+CUST0185,Customer 0185,SMB,North,2024-01-08,Manufacturing,At Risk
+CUST0186,Customer 0186,SMB,North,2025-02-11,Technology,Inactive
+CUST0187,Customer 0187,Enterprise,South,2025-08-01,Finance,Active
+CUST0188,Customer 0188,Enterprise,South,2024-12-01,Finance,Active
+CUST0189,Customer 0189,Enterprise,South,2024-05-19,Technology,Active
+CUST0190,Customer 0190,SMB,South,2025-02-03,Manufacturing,Active
+CUST0191,Customer 0191,SMB,West,2025-12-16,Finance,Active
+CUST0192,Customer 0192,Enterprise,West,2025-01-16,Manufacturing,At Risk
+CUST0193,Customer 0193,Mid-Market,North,2025-08-12,Technology,At Risk
+CUST0194,Customer 0194,Enterprise,West,2025-03-01,Healthcare,Active
+CUST0195,Customer 0195,Enterprise,North,2024-01-10,Retail,Active
+CUST0196,Customer 0196,Enterprise,North,2024-05-07,Manufacturing,Active
+CUST0197,Customer 0197,Enterprise,South,2024-06-20,Finance,At Risk
+CUST0198,Customer 0198,SMB,South,2024-09-28,Healthcare,At Risk
+CUST0199,Customer 0199,Mid-Market,West,2024-07-25,Manufacturing,Inactive
+CUST0200,Customer 0200,Enterprise,South,2025-12-08,Technology,Active
+CUST0201,Customer 0201,Mid-Market,North,2025-11-14,Finance,At Risk
+CUST0202,Customer 0202,Enterprise,North,2025-10-15,Technology,Active
+CUST0203,Customer 0203,Mid-Market,East,2025-03-17,Technology,At Risk
+CUST0204,Customer 0204,SMB,North,2025-05-08,Retail,Active
+CUST0205,Customer 0205,Mid-Market,West,2025-09-21,Manufacturing,Active
+CUST0206,Customer 0206,Enterprise,West,2025-04-28,Manufacturing,Active
+CUST0207,Customer 0207,Mid-Market,East,2025-01-26,Finance,Active
+CUST0208,Customer 0208,SMB,North,2024-02-24,Technology,At Risk
+CUST0209,Customer 0209,SMB,West,2024-10-30,Healthcare,Active
+CUST0210,Customer 0210,Enterprise,North,2024-02-16,Healthcare,At Risk
+CUST0211,Customer 0211,SMB,East,2025-11-17,Retail,Active
+CUST0212,Customer 0212,Mid-Market,North,2025-05-27,Retail,Inactive
+CUST0213,Customer 0213,SMB,West,2025-03-15,Technology,Active
+CUST0214,Customer 0214,SMB,North,2025-01-30,Healthcare,Active
+CUST0215,Customer 0215,Enterprise,East,2025-10-24,Manufacturing,Active
+CUST0216,Customer 0216,Mid-Market,South,2024-06-26,Finance,Active
+CUST0217,Customer 0217,Mid-Market,North,2024-12-08,Healthcare,Active
+CUST0218,Customer 0218,Mid-Market,South,2024-07-18,Finance,Active
+CUST0219,Customer 0219,Mid-Market,East,2025-08-25,Technology,Active
+CUST0220,Customer 0220,SMB,South,2025-12-07,Finance,Active
+CUST0221,Customer 0221,Mid-Market,West,2024-08-01,Retail,Active
+CUST0222,Customer 0222,Enterprise,North,2024-05-12,Technology,Active
+CUST0223,Customer 0223,Mid-Market,West,2025-12-17,Manufacturing,Active
+CUST0224,Customer 0224,SMB,West,2025-12-02,Technology,Inactive
+CUST0225,Customer 0225,SMB,South,2024-10-21,Manufacturing,Active
+CUST0226,Customer 0226,Mid-Market,South,2025-08-03,Finance,At Risk
+CUST0227,Customer 0227,Mid-Market,West,2024-02-05,Healthcare,Active
+CUST0228,Customer 0228,Enterprise,North,2025-03-07,Manufacturing,Active
+CUST0229,Customer 0229,Mid-Market,East,2024-09-03,Finance,Active
+CUST0230,Customer 0230,Enterprise,West,2025-06-02,Retail,Active
+CUST0231,Customer 0231,Enterprise,East,2024-04-05,Manufacturing,At Risk
+CUST0232,Customer 0232,Enterprise,West,2024-02-19,Healthcare,At Risk
+CUST0233,Customer 0233,Mid-Market,South,2024-03-06,Manufacturing,At Risk
+CUST0234,Customer 0234,Enterprise,East,2024-05-16,Technology,Active
+CUST0235,Customer 0235,Mid-Market,North,2024-05-11,Healthcare,Active
+CUST0236,Customer 0236,Enterprise,East,2024-05-21,Healthcare,Active
+CUST0237,Customer 0237,SMB,East,2024-07-09,Manufacturing,At Risk
+CUST0238,Customer 0238,SMB,South,2024-01-16,Retail,Active
+CUST0239,Customer 0239,SMB,West,2024-04-22,Healthcare,Active
+CUST0240,Customer 0240,Mid-Market,South,2025-09-07,Retail,At Risk
+CUST0241,Customer 0241,Enterprise,East,2024-12-26,Technology,At Risk
+CUST0242,Customer 0242,Mid-Market,West,2025-06-12,Finance,Active
+CUST0243,Customer 0243,SMB,East,2024-11-12,Technology,Active
+CUST0244,Customer 0244,Mid-Market,East,2024-01-18,Finance,Active
+CUST0245,Customer 0245,Mid-Market,East,2024-11-27,Healthcare,At Risk
+CUST0246,Customer 0246,Mid-Market,West,2024-07-13,Healthcare,Active
+CUST0247,Customer 0247,Enterprise,North,2025-11-07,Technology,Active
+CUST0248,Customer 0248,SMB,West,2025-11-21,Finance,At Risk
+CUST0249,Customer 0249,Enterprise,West,2025-04-19,Retail,At Risk
+CUST0250,Customer 0250,Mid-Market,West,2024-08-22,Finance,Active
+CUST0251,Customer 0251,SMB,South,2025-04-06,Technology,Active
+CUST0252,Customer 0252,SMB,North,2024-10-24,Manufacturing,Active
+CUST0253,Customer 0253,SMB,South,2025-10-15,Finance,Active
+CUST0254,Customer 0254,Enterprise,East,2025-12-06,Retail,Active
+CUST0255,Customer 0255,Mid-Market,North,2025-08-17,Retail,Active
+CUST0256,Customer 0256,Mid-Market,East,2025-04-17,Healthcare,Active
+CUST0257,Customer 0257,SMB,North,2025-04-02,Manufacturing,Active
+CUST0258,Customer 0258,SMB,East,2024-08-02,Retail,Active
+CUST0259,Customer 0259,Enterprise,South,2025-07-05,Technology,Inactive
+CUST0260,Customer 0260,Mid-Market,South,2025-12-10,Finance,At Risk
+CUST0261,Customer 0261,Mid-Market,South,2024-08-18,Technology,Active
+CUST0262,Customer 0262,Mid-Market,North,2024-08-17,Technology,Active
+CUST0263,Customer 0263,Enterprise,West,2024-09-19,Technology,Active
+CUST0264,Customer 0264,SMB,South,2024-09-15,Manufacturing,Active
+CUST0265,Customer 0265,SMB,East,2024-09-18,Retail,Active
+CUST0266,Customer 0266,Mid-Market,South,2025-03-27,Finance,Active
+CUST0267,Customer 0267,Mid-Market,East,2025-09-27,Healthcare,At Risk
+CUST0268,Customer 0268,Enterprise,South,2024-08-04,Technology,Active
+CUST0269,Customer 0269,Mid-Market,North,2025-03-07,Healthcare,Inactive
+CUST0270,Customer 0270,Enterprise,North,2025-01-23,Retail,Inactive
+CUST0271,Customer 0271,Mid-Market,East,2024-05-31,Finance,At Risk
+CUST0272,Customer 0272,Mid-Market,West,2024-03-19,Manufacturing,At Risk
+CUST0273,Customer 0273,Enterprise,West,2025-07-04,Technology,Active
+CUST0274,Customer 0274,SMB,East,2024-07-10,Healthcare,Active
+CUST0275,Customer 0275,Mid-Market,South,2024-06-15,Healthcare,Active
+CUST0276,Customer 0276,Mid-Market,East,2024-09-06,Technology,Active
+CUST0277,Customer 0277,Enterprise,North,2024-03-20,Finance,Active
+CUST0278,Customer 0278,Enterprise,South,2024-06-17,Healthcare,At Risk
+CUST0279,Customer 0279,Enterprise,South,2025-08-05,Healthcare,Active
+CUST0280,Customer 0280,SMB,West,2024-08-07,Manufacturing,Active
+CUST0281,Customer 0281,Enterprise,West,2024-08-13,Healthcare,Active
+CUST0282,Customer 0282,Mid-Market,East,2025-05-20,Manufacturing,Active
+CUST0283,Customer 0283,SMB,South,2024-04-21,Finance,Active
+CUST0284,Customer 0284,Mid-Market,South,2024-11-02,Technology,Active
+CUST0285,Customer 0285,Mid-Market,South,2025-05-11,Finance,Active
+CUST0286,Customer 0286,Mid-Market,West,2025-03-13,Retail,At Risk
+CUST0287,Customer 0287,Enterprise,South,2024-10-05,Finance,Active
+CUST0288,Customer 0288,SMB,West,2024-04-19,Healthcare,Active
+CUST0289,Customer 0289,SMB,South,2025-02-24,Technology,Active
+CUST0290,Customer 0290,SMB,East,2025-05-10,Retail,At Risk
+CUST0291,Customer 0291,Mid-Market,North,2025-03-02,Technology,Active
+CUST0292,Customer 0292,Enterprise,North,2025-06-03,Manufacturing,Active
+CUST0293,Customer 0293,Mid-Market,North,2025-05-04,Healthcare,Active
+CUST0294,Customer 0294,Mid-Market,East,2024-08-03,Retail,Active
+CUST0295,Customer 0295,Enterprise,North,2025-05-09,Healthcare,Active
+CUST0296,Customer 0296,Mid-Market,East,2024-05-12,Finance,Active
+CUST0297,Customer 0297,SMB,West,2025-09-23,Technology,At Risk
+CUST0298,Customer 0298,SMB,West,2025-01-27,Manufacturing,At Risk
+CUST0299,Customer 0299,SMB,East,2024-12-17,Manufacturing,Active
+CUST0300,Customer 0300,Enterprise,North,2025-01-08,Healthcare,Active
+CUST0301,Customer 0301,Enterprise,South,2025-05-06,Manufacturing,At Risk
+CUST0302,Customer 0302,Mid-Market,South,2024-09-04,Finance,Active
+CUST0303,Customer 0303,SMB,West,2025-02-16,Retail,Active
+CUST0304,Customer 0304,Enterprise,West,2024-06-04,Retail,Active
+CUST0305,Customer 0305,SMB,West,2024-03-09,Finance,Active
+CUST0306,Customer 0306,Enterprise,North,2024-03-03,Manufacturing,At Risk
+CUST0307,Customer 0307,SMB,South,2024-12-30,Technology,At Risk
+CUST0308,Customer 0308,SMB,West,2024-08-28,Manufacturing,Active
+CUST0309,Customer 0309,SMB,West,2025-01-13,Retail,At Risk
+CUST0310,Customer 0310,SMB,South,2024-07-15,Finance,Active
+CUST0311,Customer 0311,Enterprise,South,2025-01-24,Healthcare,Active
+CUST0312,Customer 0312,Enterprise,South,2024-03-26,Retail,Active
+CUST0313,Customer 0313,Enterprise,South,2025-12-03,Technology,Active
+CUST0314,Customer 0314,Enterprise,West,2025-07-11,Manufacturing,Active
+CUST0315,Customer 0315,Enterprise,South,2025-11-06,Healthcare,Active
+CUST0316,Customer 0316,SMB,North,2025-04-08,Finance,Active
+CUST0317,Customer 0317,Enterprise,South,2025-04-04,Technology,Active
+CUST0318,Customer 0318,Mid-Market,South,2024-02-01,Finance,At Risk
+CUST0319,Customer 0319,Enterprise,West,2025-08-08,Healthcare,Active
+CUST0320,Customer 0320,Enterprise,South,2024-11-25,Finance,Active
+CUST0321,Customer 0321,Enterprise,North,2025-08-27,Healthcare,Active
+CUST0322,Customer 0322,Enterprise,South,2024-09-22,Finance,Active
+CUST0323,Customer 0323,Enterprise,East,2025-11-01,Manufacturing,At Risk
+CUST0324,Customer 0324,SMB,North,2025-01-14,Retail,Active
+CUST0325,Customer 0325,SMB,South,2025-10-04,Manufacturing,Active
+CUST0326,Customer 0326,SMB,West,2024-09-13,Technology,Inactive
+CUST0327,Customer 0327,Enterprise,North,2024-09-02,Finance,Active
+CUST0328,Customer 0328,Mid-Market,South,2025-09-28,Retail,At Risk
+CUST0329,Customer 0329,Enterprise,North,2024-03-24,Manufacturing,Inactive
+CUST0330,Customer 0330,Mid-Market,North,2024-06-20,Technology,Active
+CUST0331,Customer 0331,Mid-Market,North,2025-07-02,Manufacturing,At Risk
+CUST0332,Customer 0332,SMB,South,2024-01-29,Finance,Inactive
+CUST0333,Customer 0333,SMB,North,2025-11-05,Technology,Inactive
+CUST0334,Customer 0334,Mid-Market,West,2025-02-02,Retail,Active
+CUST0335,Customer 0335,Mid-Market,East,2025-02-10,Technology,Active
+CUST0336,Customer 0336,SMB,South,2024-06-04,Retail,Active
+CUST0337,Customer 0337,Enterprise,South,2025-01-11,Retail,Active
+CUST0338,Customer 0338,Enterprise,East,2025-12-16,Retail,At Risk
+CUST0339,Customer 0339,SMB,East,2024-06-28,Retail,Inactive
+CUST0340,Customer 0340,Enterprise,West,2024-10-13,Finance,Active
+CUST0341,Customer 0341,Enterprise,North,2025-05-01,Healthcare,Active
+CUST0342,Customer 0342,SMB,North,2024-01-21,Finance,At Risk
+CUST0343,Customer 0343,Mid-Market,South,2025-06-20,Manufacturing,Active
+CUST0344,Customer 0344,Enterprise,West,2024-09-13,Technology,Active
+CUST0345,Customer 0345,SMB,West,2024-10-30,Technology,Active
+CUST0346,Customer 0346,SMB,East,2025-03-30,Technology,Active
+CUST0347,Customer 0347,SMB,West,2024-06-23,Retail,Active
+CUST0348,Customer 0348,SMB,North,2024-12-28,Manufacturing,At Risk
+CUST0349,Customer 0349,Mid-Market,South,2025-08-14,Finance,Active
+CUST0350,Customer 0350,Enterprise,West,2025-05-22,Technology,Active
+CUST0351,Customer 0351,SMB,North,2025-05-08,Retail,Active
+CUST0352,Customer 0352,SMB,North,2025-05-31,Healthcare,Active
+CUST0353,Customer 0353,SMB,East,2024-01-23,Manufacturing,Active
+CUST0354,Customer 0354,SMB,East,2025-09-11,Technology,Active
+CUST0355,Customer 0355,SMB,East,2024-06-24,Healthcare,Active
+CUST0356,Customer 0356,SMB,East,2024-01-14,Finance,Active
+CUST0357,Customer 0357,Mid-Market,East,2025-06-06,Retail,Active
+CUST0358,Customer 0358,SMB,South,2024-12-15,Manufacturing,Inactive
+CUST0359,Customer 0359,Enterprise,West,2024-10-11,Healthcare,At Risk
+CUST0360,Customer 0360,SMB,West,2024-10-28,Healthcare,Active
+CUST0361,Customer 0361,Enterprise,North,2025-12-17,Technology,Active
+CUST0362,Customer 0362,SMB,East,2024-04-21,Healthcare,Active
+CUST0363,Customer 0363,Mid-Market,West,2024-07-01,Manufacturing,At Risk
+CUST0364,Customer 0364,Enterprise,East,2025-03-30,Retail,At Risk
+CUST0365,Customer 0365,Mid-Market,North,2025-11-09,Retail,At Risk
+CUST0366,Customer 0366,Mid-Market,North,2025-06-13,Manufacturing,Active
+CUST0367,Customer 0367,Enterprise,East,2025-10-18,Technology,Inactive
+CUST0368,Customer 0368,Enterprise,East,2024-01-15,Finance,Inactive
+CUST0369,Customer 0369,SMB,East,2025-04-23,Manufacturing,At Risk
+CUST0370,Customer 0370,Mid-Market,South,2025-06-19,Healthcare,At Risk
+CUST0371,Customer 0371,Enterprise,South,2025-12-01,Technology,Active
+CUST0372,Customer 0372,SMB,South,2024-06-09,Finance,Active
+CUST0373,Customer 0373,Enterprise,North,2025-06-25,Retail,Inactive
+CUST0374,Customer 0374,Mid-Market,South,2025-07-23,Healthcare,At Risk
+CUST0375,Customer 0375,SMB,South,2025-02-02,Technology,Active
+CUST0376,Customer 0376,Enterprise,South,2025-11-14,Healthcare,Active
+CUST0377,Customer 0377,Enterprise,West,2025-06-04,Technology,Active
+CUST0378,Customer 0378,Enterprise,North,2024-04-15,Retail,Active
+CUST0379,Customer 0379,Mid-Market,West,2025-12-04,Technology,Active
+CUST0380,Customer 0380,Enterprise,East,2025-10-14,Finance,Active
+CUST0381,Customer 0381,Mid-Market,West,2025-06-21,Finance,Active
+CUST0382,Customer 0382,SMB,South,2025-09-28,Healthcare,Active
+CUST0383,Customer 0383,SMB,West,2025-08-10,Healthcare,Active
+CUST0384,Customer 0384,Mid-Market,North,2024-07-22,Manufacturing,Active
+CUST0385,Customer 0385,Enterprise,East,2024-03-02,Retail,Active
+CUST0386,Customer 0386,Enterprise,South,2024-02-17,Healthcare,Active
+CUST0387,Customer 0387,SMB,North,2024-03-27,Manufacturing,Active
+CUST0388,Customer 0388,SMB,North,2025-01-31,Retail,Active
+CUST0389,Customer 0389,Enterprise,West,2024-11-06,Retail,Active
+CUST0390,Customer 0390,Mid-Market,East,2025-02-11,Manufacturing,Active
+CUST0391,Customer 0391,Enterprise,East,2024-03-30,Retail,At Risk
+CUST0392,Customer 0392,SMB,North,2024-10-14,Finance,Active
+CUST0393,Customer 0393,SMB,East,2024-04-12,Technology,Active
+CUST0394,Customer 0394,Enterprise,East,2025-09-07,Manufacturing,Active
+CUST0395,Customer 0395,SMB,West,2025-10-17,Finance,At Risk
+CUST0396,Customer 0396,SMB,North,2025-01-23,Retail,Inactive
+CUST0397,Customer 0397,Mid-Market,North,2025-04-04,Finance,Active
+CUST0398,Customer 0398,Enterprise,South,2024-03-08,Finance,Active
+CUST0399,Customer 0399,Mid-Market,West,2024-04-17,Technology,Active
+CUST0400,Customer 0400,Enterprise,North,2025-03-25,Technology,Active

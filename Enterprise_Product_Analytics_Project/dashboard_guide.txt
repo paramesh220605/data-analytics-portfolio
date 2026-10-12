@@ -1,0 +1,68 @@
+POWER BI DASHBOARD GUIDE
+
+DATA MODEL
+Customer Master (1) -> (*) Sales Transactions (*) <- (1) Product Master
+DateTable (1) -> (*) Sales Transactions
+
+DAX:
+DateTable = CALENDAR(MIN(Sales_Transactions[Order_Date]),MAX(Sales_Transactions[Order_Date]))
+Year = YEAR(DateTable[Date])
+Month = FORMAT(DateTable[Date],"MMM")
+Month Number = MONTH(DateTable[Date])
+Year Month = FORMAT(DateTable[Date],"YYYY-MM")
+
+Total Revenue = SUM(Sales_Transactions[Revenue])
+Total Cost = SUM(Sales_Transactions[Total_Cost])
+Total Profit = SUM(Sales_Transactions[Profit])
+Total Orders = DISTINCTCOUNT(Sales_Transactions[Order_ID])
+Total Customers = DISTINCTCOUNT(Sales_Transactions[Customer_ID])
+Units Sold = SUM(Sales_Transactions[Quantity])
+Profit Margin % = DIVIDE([Total Profit],[Total Revenue],0)
+Average Order Value = DIVIDE([Total Revenue],[Total Orders],0)
+Revenue per Customer = DIVIDE([Total Revenue],[Total Customers],0)
+
+Repeat Customers =
+CALCULATE(
+ DISTINCTCOUNT(Sales_Transactions[Customer_ID]),
+ FILTER(VALUES(Sales_Transactions[Customer_ID]),
+ CALCULATE(DISTINCTCOUNT(Sales_Transactions[Order_ID]))>1)
+)
+
+Repeat Customer Rate % = DIVIDE([Repeat Customers],[Total Customers],0)
+
+PAGE 1 - EXECUTIVE OVERVIEW
+KPI cards: Revenue, Profit, Margin %, Orders, Customers, Units
+Line: Revenue by Month
+Column: Revenue by Category
+Bar: Revenue by Region
+Donut: Revenue by Sales Channel
+Slicers: Date, Region, Category, Target Market, Sales Channel
+
+PAGE 2 - PRODUCT ANALYTICS
+Top 10 Products by Revenue
+Top 10 Products by Profit
+Matrix: Product, Revenue, Units, Profit, Profit Margin %
+Scatter: Revenue vs Profit by Product
+Questions: best products, most profitable products, high-revenue/low-margin products
+
+PAGE 3 - CUSTOMER INTELLIGENCE
+Cards: Customers, Repeat Customers, Repeat Rate, Revenue/Customer
+Bar: Revenue by Customer Segment
+Table: Top 20 Customers
+Scatter: Frequency vs Monetary
+RFM segment table
+Segments: High Value, At Risk, New/Promising, Regular
+
+PAGE 4 - SALES & REGIONAL ANALYTICS
+Revenue/Profit by Region
+Orders by Channel
+Revenue by Target Market
+Monthly trend
+Region and channel slicers
+
+DATA ANALYST KEYWORDS:
+Data Cleaning, ETL, Data Modeling, Star Schema, KPI, SQL, EDA,
+Data Visualization, DAX, Measures, Calculated Columns, Filter Context,
+Time Intelligence, RFM Analysis, Customer Segmentation, Product Analytics,
+Profitability Analysis, Trend Analysis, Business Intelligence,
+Customer Intelligence, Data Validation, Data Quality, Actionable Insights.

@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Target_Market,List_Price,Unit_Cost,Gross_Margin_%
+P001,Analytics Pro,Analytics,Enterprise,1200,650,45.83
+P002,Analytics Basic,Analytics,SMB,450,220,51.11
+P003,CRM Plus,CRM,Enterprise,900,480,46.67
+P004,CRM Starter,CRM,SMB,300,140,53.33
+P005,Cloud Storage,Cloud,Enterprise,700,360,48.57
+P006,Cloud Starter,Cloud,SMB,250,110,56.0
+P007,Security Suite,Security,Enterprise,1500,820,45.33
+P008,Security Basic,Security,SMB,550,280,49.09
+P009,Support Premium,Support,Enterprise,500,230,54.0
+P010,Support Standard,Support,SMB,180,75,58.33
