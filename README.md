@@ -1,29 +1,39 @@
-# Data Analytics Portfolio
+# Customer Retention, Churn & Lifetime Value Analytics Platform
 
-Welcome to my Data Analytics Portfolio! This repository contains projects demonstrating my skills in data analysis, SQL, Python, and business intelligence.
+Beginner-friendly Data Analyst portfolio project.
 
-## Projects
-
-### 1. Customer Churn and Lifetime Value Analysis
-- Analyzed customer churn, retention, and lifetime value.
-- Tools: Python, SQL, Excel, and Power BI.
-
-### 2. E-commerce Data Analytics
-- Analyzed sales, revenue, product performance, and customer behavior.
-- Tools: Python, SQL, and data visualization.
-
-### 3. Enterprise Product Analytics and Customer Intelligence
-- Explored sales performance, customer segmentation, and profitability.
-- Tools: Python, SQL, Excel, and Power BI planning.
-
-## Skills
-- SQL
+## Tools
 - Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
 - Excel
 - Power BI
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
 
-## About Me
-I am a recent Computer Science and Engineering graduate interested in Data Analytics. I am continuously developing my technical skills and building projects to solve business problems using data.
+## Core Data Analyst Skills Demonstrated
+Data cleaning, data preprocessing, exploratory data analysis (EDA), KPI development,
+data aggregation, GROUP BY queries, calculated fields, customer segmentation,
+churn analysis, retention analysis, lifetime value (LTV), risk classification,
+data visualization, dashboard design, business insights, CSV/Excel data handling.
+
+## Files
+1. customer_churn_ltv_dataset.csv – raw/dataset file
+2. customer_churn_ltv_dataset.xlsx – Excel version
+3. customer_churn_ltv_analysis.py – Python analysis
+4. customer_churn_ltv_queries.sql – SQL queries
+5. power_bi_dashboard_plan.txt – Power BI dashboard layout and DAX measures
+6. Customer_Churn_LTV_Project_Report.docx – complete project report
+
+## How to run
+1. Install Python.
+2. Install packages:
+   pip install pandas numpy matplotlib seaborn openpyxl
+3. Put all files in the same folder.
+4. Run:
+   python customer_churn_ltv_analysis.py
+
+## Note
+The dataset is synthetic and created for academic/portfolio practice. It should not be presented
+as real company customer data.
